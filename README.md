@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Light_Up_The_Earth
 CSCI-526 Group Project
 
@@ -8,6 +7,3 @@ Team Nine-AM:
 Shenqi Ye, Tianshu Wang, Zhankai Ye, Yingqi Liang, Xiaoxuan Sun
 
 Special thanks: Rui-Han Xia for app icon
-=======
-# Unity3D-game
->>>>>>> 2b35289 (Initial commit)
